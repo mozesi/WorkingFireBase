@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "508842152955",
+    "firebase_url": "https://nthalika-a35f8.firebaseio.com",
+    "project_id": "nthalika-a35f8",
+    "storage_bucket": "nthalika-a35f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508842152955:android:c605dde3747f05c27b315e",
+        "android_client_info": {
+          "package_name": "com.kauzganga.workingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508842152955-mvsq5hg7jtr41fav4s0auuiou7so5m9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kauzganga.workingfirebase",
+            "certificate_hash": "f5ed3f273977a264ac4b2434dc7ca25026d2fab5"
+          }
+        },
+        {
+          "client_id": "508842152955-59e6nma0839qccb1t0tuc9jsof1b1fl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUADHo3aHyEITJy_AtV4VQfK6wXNHc4EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508842152955-59e6nma0839qccb1t0tuc9jsof1b1fl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
